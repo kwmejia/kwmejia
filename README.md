@@ -33,20 +33,15 @@
 
 ### GitHub Stats
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=SebastianRobayo&show_icons=true&theme=dark&line_height=25" alt="Sebastian's github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianRobayo&theme=dark" width=""> |
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=kwmejia&show_icons=true&theme=dark&line_height=25" alt="Sebastian's github stats"/> | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kwmejia&theme=dark" width=""> |
 | --------- | --------- |
 
 ***
 
- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianRobayo&langs_count=10&theme=dark&layout=compact"> |
+ | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwmejia&langs_count=10&theme=dark&layout=compact"> |
  | ----------- |
 
 
-<div align="center">
-Youtube Channel: https://www.youtube.com/channel/UCQBfzBbD2BpFkVDxTcORQsQ
- <br />
-Linkedln: https://www.linkedin.com/in/juan-sebastian-arias-robayo-23ab84191/
- 
 ### I hope you like my repositories! ❤️
 
 </div>
